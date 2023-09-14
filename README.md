@@ -6,7 +6,7 @@ No es neceserio alarmarse, puesto que solo llevaremos a cabo una sintesis abstra
 
 # DIAGRAMA
 
-![Diagrama](https://github.com/santiagosimonsantos/Taller-introductorio-a-la-Programacion-Orientada-a-Objetos-con-Java/blob/main/Diagrama.svg)
+![Diagrama](https://github.com/CADORE33/Taller-Java-Orientado-a-Objetos/blob/main/Diagrama.svg)
 
 # ROADMAP TIENDA DE VIDEOJUEGOS
 
